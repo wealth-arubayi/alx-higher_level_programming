@@ -9,3 +9,5 @@ This repository contains the following directories:
 4) 0x03-python-data_structures
 
 5) 0x04-python-more_data_structures
+
+6) 0x05-python-exceptions
