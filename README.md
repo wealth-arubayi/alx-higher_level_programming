@@ -11,3 +11,5 @@ This repository contains the following directories:
 5) 0x04-python-more_data_structures
 
 6) 0x05-python-exceptions
+
+7) 0x06-python-classes
