@@ -16,16 +16,13 @@ following eight independently-developed:
   * [100-matrix_mul.txt](./tests/100-matrix_mul.txt)
   * [101-lazy_matrix_mul.txt](./tests/101-lazy_matrix_mul.txt)
 
-## Function Prototypes :floppy_disk:
-
 
 ## Technologies
 * Python Scripts are written with `Python 3.8.5`
-* C files are compiled using `gcc 9.4.0`
+* C files are compiled using `gcc 9.4.
 * Tested on `Ubuntu 20.04 LTS`
 
-## Prototypes for functions written in this project:
-
+## Function Prototypes :floppy_disk:
 ## Files
 | Filename | Description |
 | -------- | ----------- |
