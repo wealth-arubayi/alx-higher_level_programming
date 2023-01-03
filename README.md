@@ -15,3 +15,5 @@ This repository contains the following directories:
 7) 0x06-python-classes
 
 8) 0x07-python-test_driven_development
+
+9) 0x08-python-more_classes
