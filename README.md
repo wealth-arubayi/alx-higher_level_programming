@@ -19,3 +19,7 @@ This repository contains the following directories:
 9) 0x08-python-more_classes
 
 10) 0x09-python-everything_is_object
+
+11) 0x10-python-network_0
+
+12) 0x0A-python-inheritance
